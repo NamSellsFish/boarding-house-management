@@ -1,0 +1,12 @@
+[
+  {
+    "role": "ROLE_ADMIN"
+  },
+  {
+    "role": "ROLE_STAFF"
+
+  },
+  {
+    "role": "ROLE_USER"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Water",
+    "price": 12000,
+    "unit": "Cubic Meter",
+    "isMeteredService": true
+  },
+  {
+    "name": "Electricity",
+    "price": 4000,
+    "unit": "kWh",
+    "isMeteredService": true
+  },
+  {
+    "name": "Cleaning",
+    "price": 30000,
+    "unit": "Time",
+    "isMeteredService": false
+  }
+]
