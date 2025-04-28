@@ -233,10 +233,10 @@
 
 | Color           | Hex                                                              |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color   | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color    | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color      | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Primary Color   | ![#222831](https://placehold.co/50x50/222831/transparent?text=\n) #222831 |
+| Secondary Color | ![#393E46](https://placehold.co/50x50/393E46/transparent?text=\n) #393E46 |
+| Accent Color    | ![#00ADB5](https://placehold.co/50x50/00ADB5/transparent?text=\n) #00ADB5 |
+| Text Color      | ![#EEEEEE](https://placehold.co/50x50/EEEEEE/transparent?text=\n) #EEEEEE |
 
 <!-- Getting Started -->
 
@@ -296,7 +296,7 @@ Distributed under the MIT License.
 
 ## :handshake: Contact
 
-Lê Xuân Cường - [@cuonglexuan203](https://github.com/cuonglexuan203) - 21110758@student.hcmute.edu.vn
+Mai Nguyễn Nhật Nam - [@NamSellsFish](https://github.com/NamSellsFish) - 21110785@student.hcmute.edu.vn
 
-Project Link: https://github.com/cuonglexuan203/boarding-house-management
+Project Link: https://github.com/NamSellsFish/boarding-house-management
 
